@@ -1,0 +1,106 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    # Run every day at 6 AM UTC
+    - cron: '0 6 * * *'
+  
+  # Allow manual trigger from Actions tab
+  workflow_dispatch:
+  
+  # Run on push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8191:8191
+        env:
+          LOG_LEVEL: info
+          LOG_HTML: false
+          CAPTCHA_SOLVER: none
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Start FlareSolverr (optional - uncomment to enable)
+        run: |
+          # Uncomment the lines below to enable FlareSolverr in GitHub Actions
+          # docker run -d --name=flaresolverr \
+          #   -p 8191:8191 \
+          #   -e LOG_LEVEL=info \
+          #   ghcr.io/flaresolverr/flaresolverr:latest
+          # sleep 10
+          echo "FlareSolverr disabled by default in GitHub Actions"
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Wait for FlareSolverr to be ready
+        run: |
+          echo "Waiting for FlareSolverr to start..."
+          for i in {1..30}; do
+            if curl -s http://localhost:8191/health > /dev/null 2>&1; then
+              echo "FlareSolverr is ready!"
+              break
+            fi
+            echo "Waiting... ($i/30)"
+            sleep 2
+          done
+      
+      - name: Test FlareSolverr
+        run: |
+          curl -s http://localhost:8191/health || echo "FlareSolverr health check failed"
+      
+      - name: Run scraper
+        env:
+          FLARESOLVERR_URL: http://localhost:8191/v1
+        run: |
+          python scraper.py
+      
+      - name: Check if feed was generated
+        run: |
+          if [ ! -f feed.xml ]; then
+            echo "Error: feed.xml was not generated"
+            exit 1
+          fi
+          echo "feed.xml generated successfully"
+          ls -lh feed.xml
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          keep_files: false
+          enable_jekyll: false
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Update RSS feed - ${{ github.event.head_commit.message }}'
+      
+      - name: Display feed info
+        run: |
+          echo "Feed URL will be available at:"
+          echo "https://${{ github.repository_owner }}.github.io/$(basename ${{ github.repository }})/feed.xml"
+          echo ""
+          echo "Feed size: $(wc -c < feed.xml) bytes"
+          echo "Feed lines: $(wc -l < feed.xml) lines"
