@@ -5,7 +5,7 @@
     <link>https://www.newscientist.com/issues/current/</link>
     <description>Latest articles from New Scientist magazine current issue (powered by FlareSolverr)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:21:53 GMT</lastBuildDate>
     <generator>NewScientist RSS Scraper v2.0 (with FlareSolverr)</generator>
     <ns0:link href="https://YOUR_USERNAME.github.io/newscientist-rss-scraper/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
@@ -14,300 +14,357 @@
       <link>https://www.newscientist.com</link>
     </image>
     <item>
-      <title>Has the answer to life's origins been hiding in our cells all along?</title>
-      <link>https://www.newscientist.com/article/2529162-has-the-answer-to-lifes-origins-been-hiding-in-our-cells-all-along/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529162-has-the-answer-to-lifes-origins-been-hiding-in-our-cells-all-along/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>The 17 best popular science books of 2026 so far</title>
+      <link>https://www.newscientist.com/article/mg27036012-600-the-17-best-popular-science-books-of-2026-so-far/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/mg27036012-600-the-17-best-popular-science-books-of-2026-so-far/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Culture</category>
+      <description>Category: Culture</description>
+    </item>
+    <item>
+      <title>The lunar botanist with a plan to farm vegetables on the moon</title>
+      <link>https://www.newscientist.com/article/2529785-the-lunar-botanist-with-a-plan-to-farm-vegetables-on-the-moon/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2529785-the-lunar-botanist-with-a-plan-to-farm-vegetables-on-the-moon/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Features</category>
       <description>Category: Features</description>
     </item>
     <item>
-      <title>The secrets to keeping your brain sharp in old age</title>
-      <link>https://www.newscientist.com/article/2529259-the-secrets-to-keeping-your-brain-sharp-in-old-age/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529259-the-secrets-to-keeping-your-brain-sharp-in-old-age/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>The surprising ways your brain changes from your 20s to your 40s</title>
+      <link>https://www.newscientist.com/article/2530226-the-surprising-ways-your-brain-changes-from-your-20s-to-your-40s/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530226-the-surprising-ways-your-brain-changes-from-your-20s-to-your-40s/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Features</category>
       <description>Category: Features</description>
     </item>
     <item>
-      <title>Fully autonomous drones have killed human soldiers for the first time</title>
-      <link>https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Sperm have been made magnetic to allow IVF inside the body</title>
+      <link>https://www.newscientist.com/article/2530334-sperm-have-been-made-magnetic-to-allow-ivf-inside-the-body/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530334-sperm-have-been-made-magnetic-to-allow-ivf-inside-the-body/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>News</category>
       <description>Category: News</description>
     </item>
     <item>
-      <title>Millions of fossil whale bones found in deep-ocean ‘necropolis’</title>
-      <link>https://www.newscientist.com/article/2529864-millions-of-fossil-whale-bones-found-in-deep-ocean-necropolis/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529864-millions-of-fossil-whale-bones-found-in-deep-ocean-necropolis/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Arctic Ocean reaches tipping point that could be dire for marine life</title>
+      <link>https://www.newscientist.com/article/2530469-arctic-ocean-reaches-tipping-point-that-could-be-dire-for-marine-life/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530469-arctic-ocean-reaches-tipping-point-that-could-be-dire-for-marine-life/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>News</category>
       <description>Category: News</description>
     </item>
     <item>
-      <title>Toy universe shows that time could be a quantum illusion</title>
-      <link>https://www.newscientist.com/article/2529957-toy-universe-shows-that-time-could-be-a-quantum-illusion/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529957-toy-universe-shows-that-time-could-be-a-quantum-illusion/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Walking shark found in Papua New Guinea is new to science</title>
+      <link>https://www.newscientist.com/article/2530536-walking-shark-found-in-papua-new-guinea-is-new-to-science/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530536-walking-shark-found-in-papua-new-guinea-is-new-to-science/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>News</category>
       <description>Category: News</description>
     </item>
     <item>
-      <title>First working nuclear clock heralds a new era in timekeeping</title>
-      <link>https://www.newscientist.com/article/2530094-first-working-nuclear-clock-heralds-a-new-era-in-timekeeping/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530094-first-working-nuclear-clock-heralds-a-new-era-in-timekeeping/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Oldest known plague outbreak killed hunter-gatherer children</title>
+      <link>https://www.newscientist.com/article/2530606-oldest-known-plague-outbreak-killed-hunter-gatherer-children/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530606-oldest-known-plague-outbreak-killed-hunter-gatherer-children/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>News</category>
       <description>Category: News</description>
     </item>
     <item>
-      <title>Have we finally worked out how Venus flytraps snap shut?</title>
-      <link>https://www.newscientist.com/article/2530108-have-we-finally-worked-out-how-venus-flytraps-snap-shut/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530108-have-we-finally-worked-out-how-venus-flytraps-snap-shut/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Almost the whole of Japan moved eastward after 2011 earthquake</title>
+      <link>https://www.newscientist.com/article/2531001-almost-the-whole-of-japan-moved-eastward-after-2011-earthquake/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531001-almost-the-whole-of-japan-moved-eastward-after-2011-earthquake/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>News</category>
       <description>Category: News</description>
     </item>
     <item>
-      <title>Killer robots are here – we must finally decide whether to accept them</title>
-      <link>https://www.newscientist.com/article/2530304-killer-robots-are-here-we-must-finally-decide-whether-to-accept-them/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530304-killer-robots-are-here-we-must-finally-decide-whether-to-accept-them/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Technology</category>
-      <description>Category: Technology | Type: Comment</description>
-      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/12153053/SEI_301091850.jpg" type="image/jpeg"/>
-      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/12153053/SEI_301091850.jpg" medium="image"/>
-      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/12153053/SEI_301091850.jpg"/>
+      <title>Neuroscience can't tell us the way to govern people's brains</title>
+      <link>https://www.newscientist.com/article/mg27036012-800-neuroscience-cant-tell-us-the-way-to-govern-peoples-brains/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/mg27036012-800-neuroscience-cant-tell-us-the-way-to-govern-peoples-brains/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Mind</category>
+      <description>Category: Mind | Type: Comment</description>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/23093437/SEI_302429645.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/23093437/SEI_302429645.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/23093437/SEI_302429645.jpg"/>
     </item>
     <item>
-      <title>A quantum state that lasts forever may finally be within our grasp</title>
-      <link>https://www.newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Physics</category>
-      <description>Category: Physics | Type: Features</description>
-      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/16102025/SEI_301079228.jpg" type="image/jpeg"/>
-      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/16102025/SEI_301079228.jpg" medium="image"/>
-      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/16102025/SEI_301079228.jpg"/>
+      <title>Parenting may permanently improve brain health for mums and dads</title>
+      <link>https://www.newscientist.com/article/2530223-parenting-may-permanently-improve-brain-health-for-mums-and-dads/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530223-parenting-may-permanently-improve-brain-health-for-mums-and-dads/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Mind</category>
+      <description>Category: Mind | Type: Features</description>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/18204554/SEI_301810315.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/18204554/SEI_301810315.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/18204554/SEI_301810315.jpg"/>
     </item>
     <item>
-      <title>Robots are about to overtake armed soldiers as the deciders of war</title>
-      <link>https://www.newscientist.com/article/2529267-robots-are-about-to-overtake-armed-soldiers-as-the-deciders-of-war/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529267-robots-are-about-to-overtake-armed-soldiers-as-the-deciders-of-war/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Technology</category>
-      <description>Category: Technology | Type: News</description>
-      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/04163332/SEI_300060576.jpg" type="image/jpeg"/>
-      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/04163332/SEI_300060576.jpg" medium="image"/>
-      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/04163332/SEI_300060576.jpg"/>
+      <title>How some people's brains make an extraordinary recovery from stroke</title>
+      <link>https://www.newscientist.com/article/2530146-how-some-peoples-brains-make-an-extraordinary-recovery-from-stroke/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530146-how-some-peoples-brains-make-an-extraordinary-recovery-from-stroke/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Mind</category>
+      <description>Category: Mind | Type: Features</description>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/22140106/SEI_3018126521.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/22140106/SEI_3018126521.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/22140106/SEI_3018126521.jpg"/>
     </item>
     <item>
-      <title>You could get some of the benefits of sleep without having to nod off</title>
-      <link>https://www.newscientist.com/article/2529507-you-could-get-some-of-the-benefits-of-sleep-without-having-to-nod-off/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529507-you-could-get-some-of-the-benefits-of-sleep-without-having-to-nod-off/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>How menopause radically changes the brain – and what happens after</title>
+      <link>https://www.newscientist.com/article/2529751-how-menopause-radically-changes-the-brain-and-what-happens-after/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2529751-how-menopause-radically-changes-the-brain-and-what-happens-after/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Health</category>
-      <description>Category: Health | Type: News</description>
+      <description>Category: Health | Type: Features</description>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/18103936/SEI_3018099901.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/18103936/SEI_3018099901.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/18103936/SEI_3018099901.jpg"/>
     </item>
     <item>
-      <title>Wildlife thrives in solar farm built on restored peatland</title>
-      <link>https://www.newscientist.com/article/2529590-wildlife-thrives-in-solar-farm-built-on-restored-peatland/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529590-wildlife-thrives-in-solar-farm-built-on-restored-peatland/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Environment</category>
-      <description>Category: Environment | Type: News</description>
+      <title>Our brains have their first thoughts unexpectedly early in life</title>
+      <link>https://www.newscientist.com/article/2527946-our-brains-have-their-first-thoughts-unexpectedly-early-in-life/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2527946-our-brains-have-their-first-thoughts-unexpectedly-early-in-life/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Mind</category>
+      <description>Category: Mind | Type: Features</description>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/05/29182922/SEI_299343146.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/05/29182922/SEI_299343146.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/05/29182922/SEI_299343146.jpg"/>
     </item>
     <item>
-      <title>Dinosaur-killing asteroid impact site stayed hot for millions of years</title>
-      <link>https://www.newscientist.com/article/2529627-dinosaur-killing-asteroid-impact-site-stayed-hot-for-millions-of-years/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529627-dinosaur-killing-asteroid-impact-site-stayed-hot-for-millions-of-years/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Earth</category>
-      <description>Category: Earth | Type: News</description>
+      <title>Why you need to future-proof your brain in middle age and how to start</title>
+      <link>https://www.newscientist.com/article/2526727-why-you-need-to-future-proof-your-brain-in-middle-age-and-how-to-start/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2526727-why-you-need-to-future-proof-your-brain-in-middle-age-and-how-to-start/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Mind</category>
+      <description>Category: Mind | Type: Features</description>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/05/29185820/SEI_299359651.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/05/29185820/SEI_299359651.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/05/29185820/SEI_299359651.jpg"/>
     </item>
     <item>
-      <title>Frozen squirrel scat preserves ancient DNA from hundreds of species</title>
-      <link>https://www.newscientist.com/article/2529635-frozen-squirrel-scat-preserves-ancient-dna-from-hundreds-of-species/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529635-frozen-squirrel-scat-preserves-ancient-dna-from-hundreds-of-species/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Life</category>
-      <description>Category: Life | Type: News</description>
-    </item>
-    <item>
-      <title>Iron Age Britons may have removed the brains of the dead</title>
-      <link>https://www.newscientist.com/article/2529799-iron-age-britons-may-have-removed-the-brains-of-the-dead/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529799-iron-age-britons-may-have-removed-the-brains-of-the-dead/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Humans</category>
-      <description>Category: Humans | Type: News</description>
-    </item>
-    <item>
-      <title>Vaping after quitting smoking is linked to lung cancer</title>
-      <link>https://www.newscientist.com/article/2529853-vaping-after-quitting-smoking-is-linked-to-lung-cancer/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529853-vaping-after-quitting-smoking-is-linked-to-lung-cancer/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Health</category>
-      <description>Category: Health | Type: News</description>
-    </item>
-    <item>
-      <title>Wolves seen hunting European bison in rare camera-trap recording</title>
-      <link>https://www.newscientist.com/article/2529929-wolves-seen-hunting-european-bison-in-rare-camera-trap-recording/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529929-wolves-seen-hunting-european-bison-in-rare-camera-trap-recording/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Life</category>
-      <description>Category: Life | Type: News</description>
-    </item>
-    <item>
-      <title>Quantum computer quickly mines cryptocurrency while using less energy</title>
-      <link>https://www.newscientist.com/article/2529973-quantum-computer-quickly-mines-cryptocurrency-while-using-less-energy/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529973-quantum-computer-quickly-mines-cryptocurrency-while-using-less-energy/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Inside the start-up aiming for a giant leap in robot intelligence</title>
+      <link>https://www.newscientist.com/article/2530349-inside-the-start-up-aiming-for-a-giant-leap-in-robot-intelligence/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530349-inside-the-start-up-aiming-for-a-giant-leap-in-robot-intelligence/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Technology</category>
       <description>Category: Technology | Type: News</description>
     </item>
     <item>
-      <title>‘Forgotten’ pollutants cause 15 per cent of global warming</title>
-      <link>https://www.newscientist.com/article/2530049-forgotten-pollutants-cause-15-per-cent-of-global-warming/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530049-forgotten-pollutants-cause-15-per-cent-of-global-warming/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Environment</category>
-      <description>Category: Environment | Type: News</description>
-    </item>
-    <item>
-      <title>Global map reveals the vast scale of underground fungal networks</title>
-      <link>https://www.newscientist.com/article/2530122-global-map-reveals-the-vast-scale-of-underground-fungal-networks/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530122-global-map-reveals-the-vast-scale-of-underground-fungal-networks/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Life</category>
-      <description>Category: Life | Type: News</description>
-    </item>
-    <item>
-      <title>The relationship recession is even bigger for Gen Z than we thought</title>
-      <link>https://www.newscientist.com/article/2530237-the-relationship-recession-is-even-bigger-for-gen-z-than-we-thought/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530237-the-relationship-recession-is-even-bigger-for-gen-z-than-we-thought/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Autism may have two distinct subtypes that vary by brain activity</title>
+      <link>https://www.newscientist.com/article/2530459-autism-may-have-two-distinct-subtypes-that-vary-by-brain-activity/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530459-autism-may-have-two-distinct-subtypes-that-vary-by-brain-activity/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Mind</category>
       <description>Category: Mind | Type: News</description>
     </item>
     <item>
-      <title>Can Apple and Google stop children from sharing explicit images?</title>
-      <link>https://www.newscientist.com/article/2529562-can-apple-and-google-stop-children-from-sharing-explicit-images/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529562-can-apple-and-google-stop-children-from-sharing-explicit-images/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Complex life on Earth may last 500 million years longer than expected</title>
+      <link>https://www.newscientist.com/article/2530639-complex-life-on-earth-may-last-500-million-years-longer-than-expected/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530639-complex-life-on-earth-may-last-500-million-years-longer-than-expected/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Life</category>
+      <description>Category: Life | Type: News</description>
+    </item>
+    <item>
+      <title>Chilling the body with drugs could limit brain damage from stroke</title>
+      <link>https://www.newscientist.com/article/2530657-chilling-the-body-with-drugs-could-limit-brain-damage-from-stroke/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530657-chilling-the-body-with-drugs-could-limit-brain-damage-from-stroke/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Health</category>
+      <description>Category: Health | Type: News</description>
+    </item>
+    <item>
+      <title>Autism and ADHD are on the rise due to widening diagnostic criteria</title>
+      <link>https://www.newscientist.com/article/2530700-autism-and-adhd-are-on-the-rise-due-to-widening-diagnostic-criteria/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530700-autism-and-adhd-are-on-the-rise-due-to-widening-diagnostic-criteria/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Mind</category>
+      <description>Category: Mind | Type: News</description>
+    </item>
+    <item>
+      <title>Cervical cancer deaths have plummeted thanks to HPV vaccine</title>
+      <link>https://www.newscientist.com/article/2530733-cervical-cancer-deaths-have-plummeted-thanks-to-hpv-vaccine/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530733-cervical-cancer-deaths-have-plummeted-thanks-to-hpv-vaccine/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Health</category>
+      <description>Category: Health | Type: News</description>
+    </item>
+    <item>
+      <title>Pigeons lock their eyes in place when they are flying</title>
+      <link>https://www.newscientist.com/article/2530749-pigeons-lock-their-eyes-in-place-when-they-are-flying/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530749-pigeons-lock-their-eyes-in-place-when-they-are-flying/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Life</category>
+      <description>Category: Life | Type: News</description>
+    </item>
+    <item>
+      <title>Ancient monument marked summer solstice centuries before Stonehenge</title>
+      <link>https://www.newscientist.com/article/2530818-ancient-monument-marked-summer-solstice-centuries-before-stonehenge/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530818-ancient-monument-marked-summer-solstice-centuries-before-stonehenge/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Humans</category>
+      <description>Category: Humans | Type: News</description>
+    </item>
+    <item>
+      <title>Why El Niño’s impacts on the UK are hard to predict</title>
+      <link>https://www.newscientist.com/article/2530878-why-el-ninos-impacts-on-the-uk-are-hard-to-predict/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530878-why-el-ninos-impacts-on-the-uk-are-hard-to-predict/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Environment</category>
+      <description>Category: Environment | Type: News</description>
+    </item>
+    <item>
+      <title>Remarkable fossils rewrite the story of how animals conquered the land</title>
+      <link>https://www.newscientist.com/article/2531039-remarkable-fossils-rewrite-the-story-of-how-animals-conquered-the-land/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531039-remarkable-fossils-rewrite-the-story-of-how-animals-conquered-the-land/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Life</category>
+      <description>Category: Life | Type: News</description>
+    </item>
+    <item>
+      <title>People training new AI models admit they just get chatbots to do it</title>
+      <link>https://www.newscientist.com/article/2531050-people-training-new-ai-models-admit-they-just-get-chatbots-to-do-it/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531050-people-training-new-ai-models-admit-they-just-get-chatbots-to-do-it/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Technology</category>
       <description>Category: Technology | Type: News</description>
-      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/08165437/SEI_300641453.jpg" type="image/jpeg"/>
-      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/08165437/SEI_300641453.jpg" medium="image"/>
-      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/08165437/SEI_300641453.jpg"/>
     </item>
     <item>
-      <title>Dramatic photo of ibis being guided to their winter homes wins award</title>
-      <link>https://www.newscientist.com/article/2529871-dramatic-photo-of-ibis-being-guided-to-their-winter-homes-wins-award/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529871-dramatic-photo-of-ibis-being-guided-to-their-winter-homes-wins-award/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Life</category>
-      <description>Category: Life | Type: Regulars</description>
-      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/10122514/sei300837914.jpg" type="image/jpeg"/>
-      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/10122514/sei300837914.jpg" medium="image"/>
-      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/10122514/sei300837914.jpg"/>
+      <title>We've found a mysterious substance on Titan and Pluto</title>
+      <link>https://www.newscientist.com/article/2531107-weve-found-a-mysterious-substance-on-titan-and-pluto/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531107-weve-found-a-mysterious-substance-on-titan-and-pluto/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Space</category>
+      <description>Category: Space | Type: News</description>
     </item>
     <item>
-      <title>New Scientist recommends Togetherness, a radical new view of life</title>
-      <link>https://www.newscientist.com/article/2528690-new-scientist-recommends-togetherness-a-radical-new-view-of-life/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2528690-new-scientist-recommends-togetherness-a-radical-new-view-of-life/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Gas from Uranus reveals it has an icy centre</title>
+      <link>https://www.newscientist.com/article/2531117-gas-from-uranus-reveals-it-has-an-icy-centre/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531117-gas-from-uranus-reveals-it-has-an-icy-centre/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Space</category>
+      <description>Category: Space | Type: News</description>
+    </item>
+    <item>
+      <title>Faecal transplant makes the brains of old mice act young again</title>
+      <link>https://www.newscientist.com/article/2531241-faecal-transplant-makes-the-brains-of-old-mice-act-young-again/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531241-faecal-transplant-makes-the-brains-of-old-mice-act-young-again/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Health</category>
+      <description>Category: Health | Type: News</description>
+    </item>
+    <item>
+      <title>A promising natural technique to remove CO2 could backfire</title>
+      <link>https://www.newscientist.com/article/2531254-a-promising-natural-technique-to-remove-co2-could-backfire/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531254-a-promising-natural-technique-to-remove-co2-could-backfire/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Environment</category>
+      <description>Category: Environment | Type: News</description>
+    </item>
+    <item>
+      <title>A note from the anniversary editor</title>
+      <link>https://www.newscientist.com/article/2531539-a-note-from-the-anniversary-editor/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531539-a-note-from-the-anniversary-editor/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category/>
+      <description>Category:  | Type: News</description>
+    </item>
+    <item>
+      <title>A Waymo nearly hit me, but I'm still optimistic about driverless cars</title>
+      <link>https://www.newscientist.com/article/2529338-a-waymo-nearly-hit-me-but-im-still-optimistic-about-driverless-cars/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2529338-a-waymo-nearly-hit-me-but-im-still-optimistic-about-driverless-cars/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Technology</category>
+      <description>Category: Technology | Type: News</description>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/09170226/SEI_300741524.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/09170226/SEI_300741524.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/09170226/SEI_300741524.jpg"/>
+    </item>
+    <item>
+      <title>Inside Brazil’s vast network of lifesaving free milk banks</title>
+      <link>https://www.newscientist.com/article/2530765-inside-brazils-vast-network-of-lifesaving-free-milk-banks/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530765-inside-brazils-vast-network-of-lifesaving-free-milk-banks/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Health</category>
+      <description>Category: Health | Type: Regulars</description>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/17135434/sei301761330.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/17135434/sei301761330.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/17135434/sei301761330.jpg"/>
+    </item>
+    <item>
+      <title>Our verdict on The Selfish Gene: An unpopular piece of popular science</title>
+      <link>https://www.newscientist.com/article/2531275-our-verdict-on-the-selfish-gene-an-unpopular-piece-of-popular-science/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531275-our-verdict-on-the-selfish-gene-an-unpopular-piece-of-popular-science/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Life</category>
       <description>Category: Life | Type: Culture</description>
-      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/01164024/sei299727187.jpg" type="image/jpeg"/>
-      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/01164024/sei299727187.jpg" medium="image"/>
-      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/01164024/sei299727187.jpg"/>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/22105004/sei301929154-1.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/22105004/sei301929154-1.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/22105004/sei301929154-1.jpg"/>
     </item>
     <item>
-      <title>The one film to watch before seeing Steven Spielberg’s Disclosure Day</title>
-      <link>https://www.newscientist.com/article/2530057-the-one-film-to-watch-before-seeing-steven-spielbergs-disclosure-day/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530057-the-one-film-to-watch-before-seeing-steven-spielbergs-disclosure-day/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>The best sci-fi novel in 2026 so far – plus 6 other great reads</title>
+      <link>https://www.newscientist.com/article/mg27036014-200-the-best-sci-fi-novel-in-2026-so-far-plus-6-other-great-reads/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/mg27036014-200-the-best-sci-fi-novel-in-2026-so-far-plus-6-other-great-reads/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Space</category>
       <description>Category: Space | Type: Culture</description>
     </item>
     <item>
-      <title>New Scientist recommends an excellent look at the future of work</title>
-      <link>https://www.newscientist.com/article/mg27036000-200-new-scientist-recommends-an-excellent-look-at-the-future-of-work/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/mg27036000-200-new-scientist-recommends-an-excellent-look-at-the-future-of-work/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Technology</category>
-      <description>Category: Technology | Type: Culture</description>
-    </item>
-    <item>
-      <title>A cosmic case of mistaken identity that can only be solved right now</title>
-      <link>https://www.newscientist.com/article/2529145-a-cosmic-case-of-mistaken-identity-that-can-only-be-solved-right-now/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529145-a-cosmic-case-of-mistaken-identity-that-can-only-be-solved-right-now/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>We may have finally solved cosmology's chicken-or-the-egg problem</title>
+      <link>https://www.newscientist.com/article/2530220-we-may-have-finally-solved-cosmologys-chicken-or-the-egg-problem/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530220-we-may-have-finally-solved-cosmologys-chicken-or-the-egg-problem/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Space</category>
       <description>Category: Space | Type: Comment</description>
-      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/03161355/SEI_299230233.jpg" type="image/jpeg"/>
-      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/03161355/SEI_299230233.jpg" medium="image"/>
-      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/03161355/SEI_299230233.jpg"/>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/11201709/SEI_300951152.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/11201709/SEI_300951152.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/11201709/SEI_300951152.jpg"/>
     </item>
     <item>
-      <title>Why we should all take quantum physics extremely personally</title>
-      <link>https://www.newscientist.com/article/2529183-why-we-should-all-take-quantum-physics-extremely-personally/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529183-why-we-should-all-take-quantum-physics-extremely-personally/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Physics</category>
-      <description>Category: Physics | Type: Comment</description>
+      <title>What lies beneath? The new era of Earth imaging</title>
+      <link>https://www.newscientist.com/article/2530661-what-lies-beneath-the-new-era-of-earth-imaging/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530661-what-lies-beneath-the-new-era-of-earth-imaging/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Earth</category>
+      <description>Category: Earth | Type: viridien</description>
     </item>
     <item>
-      <title>What really happened when ancient humans migrated out of Africa</title>
-      <link>https://www.newscientist.com/article/2529312-what-really-happened-when-ancient-humans-migrated-out-of-africa/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529312-what-really-happened-when-ancient-humans-migrated-out-of-africa/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Humans</category>
-      <description>Category: Humans | Type: Comment</description>
+      <title>Can prebiotics, probiotics or postbiotics help your ageing microbiome?</title>
+      <link>https://www.newscientist.com/article/2530917-can-prebiotics-probiotics-or-postbiotics-help-your-ageing-microbiome/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2530917-can-prebiotics-probiotics-or-postbiotics-help-your-ageing-microbiome/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
+      <category>Health</category>
+      <description>Category: Health | Type: Comment</description>
     </item>
     <item>
-      <title>Inside the emerging science of healthspan extension for pets</title>
-      <link>https://www.newscientist.com/article/2529409-inside-the-emerging-science-of-healthspan-extension-for-pets/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2529409-inside-the-emerging-science-of-healthspan-extension-for-pets/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Life</category>
-      <description>Category: Life | Type: royal-canin-sponsored</description>
-    </item>
-    <item>
-      <title>How to sparkle in conversation with strangers</title>
-      <link>https://www.newscientist.com/article/2530034-how-to-sparkle-in-conversation-with-strangers/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530034-how-to-sparkle-in-conversation-with-strangers/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
-      <category>Mind</category>
-      <description>Category: Mind | Type: Comment</description>
-    </item>
-    <item>
-      <title>Tom Gauld: 'My experiment is generating infinite power!'</title>
-      <link>https://www.newscientist.com/article/2530558-tom-gauld-my-experiment-is-generating-infinite-power/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530558-tom-gauld-my-experiment-is-generating-infinite-power/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Tom Gauld on classic literature with added mathematics</title>
+      <link>https://www.newscientist.com/article/2531585-tom-gauld-on-classic-literature-with-added-mathematics/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531585-tom-gauld-on-classic-literature-with-added-mathematics/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category/>
       <description>Category:  | Type: Regulars</description>
     </item>
     <item>
-      <title>Twisteddoodles on the dangers of AI summaries</title>
-      <link>https://www.newscientist.com/article/2530561-twisteddoodles-on-the-dangers-of-ai-summaries/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2530561-twisteddoodles-on-the-dangers-of-ai-summaries/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Twisteddoodles on appropriate leaving gifts for scientific colleagues</title>
+      <link>https://www.newscientist.com/article/2531589-twisteddoodles-on-appropriate-leaving-gifts-for-scientific-colleagues/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2531589-twisteddoodles-on-appropriate-leaving-gifts-for-scientific-colleagues/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category/>
       <description>Category:  | Type: Regulars</description>
     </item>
     <item>
-      <title>The bigger the lizard, the bigger the Wiki page, discovers ecologist</title>
-      <link>https://www.newscientist.com/article/mg27036002-200-the-bigger-the-lizard-the-bigger-the-wiki-page-discovers-ecologist/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/mg27036002-200-the-bigger-the-lizard-the-bigger-the-wiki-page-discovers-ecologist/</guid>
-      <pubDate>Wed, 24 Jun 2026 09:29:58 GMT</pubDate>
+      <title>Hold the onions – and see if they make you cry</title>
+      <link>https://www.newscientist.com/article/mg27036012-700-hold-the-onions-and-see-if-they-make-you-cry/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/mg27036012-700-hold-the-onions-and-see-if-they-make-you-cry/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:21:53 GMT</pubDate>
       <category>Comment</category>
       <description>Category: Comment | Type: Regulars</description>
-      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/16130058/SEI_301637835.jpg" type="image/jpeg"/>
-      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/16130058/SEI_301637835.jpg" medium="image"/>
-      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/16130058/SEI_301637835.jpg"/>
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/06/23135833/SEI_302535476.jpg" type="image/jpeg"/>
+      <ns1:content url="https://images.newscientist.com/wp-content/uploads/2026/06/23135833/SEI_302535476.jpg" medium="image"/>
+      <ns1:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/06/23135833/SEI_302535476.jpg"/>
     </item>
   </channel>
 </rss>
