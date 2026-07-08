@@ -51,7 +51,7 @@ https://YOUR_USERNAME.github.io/newscientist-rss-scraper/feed.xml
 
 ```bash
 # Start FlareSolverr
-docker run -d -p 8191:8191 ghcr.io/flaresolverr/flaresolverr:latest
+docker run -d -p 8191:8191 ghcr.io/thephaseless/byparr:latest
 
 # Setup and run
 chmod +x setup.sh
