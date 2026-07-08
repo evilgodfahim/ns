@@ -68,7 +68,7 @@ clean:
 
 # Development: Start FlareSolverr only
 flaresolverr:
-	docker run -d --name flaresolverr -p 8191:8191 ghcr.io/flaresolverr/flaresolverr:latest
+	docker run -d --name byparr -p 8191:8191 ghcr.io/thephaseless/byparr:latest
 	@echo "FlareSolverr started on port 8191"
 
 # Development: Stop FlareSolverr

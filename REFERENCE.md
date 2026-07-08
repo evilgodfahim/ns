@@ -222,7 +222,7 @@ schedule:
 
 ```bash
 # With FlareSolverr
-docker run -d -p 8191:8191 ghcr.io/flaresolverr/flaresolverr:latest
+docker run -d -p 8191:8191 ghcr.io/thephaseless/byparr:latest
 FLARESOLVERR_URL=http://localhost:8191/v1 python scraper.py
 
 # Without FlareSolverr (may fail)

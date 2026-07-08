@@ -70,9 +70,9 @@ This starts three services:
 ```bash
 # Start FlareSolverr first
 docker run -d \
-  --name flaresolverr \
+  --name byparr \
   -p 8191:8191 \
-  ghcr.io/flaresolverr/flaresolverr:latest
+  ghcr.io/thephaseless/byparr:latest
 
 # Build scraper image
 docker build -t newscientist-scraper .
@@ -161,10 +161,10 @@ sudo systemctl enable docker
 
 # Run FlareSolverr
 sudo docker run -d \
-  --name flaresolverr \
+  --name byparr \
   --restart unless-stopped \
   -p 8191:8191 \
-  ghcr.io/flaresolverr/flaresolverr:latest
+  ghcr.io/thephaseless/byparr:latest
 
 # Clone repository
 git clone https://github.com/YOUR_USERNAME/newscientist-rss-scraper.git
