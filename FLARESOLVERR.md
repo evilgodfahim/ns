@@ -95,7 +95,7 @@ Services started:
 docker run -d \
   --name=flaresolverr \
   -p 8191:8191 \
-  ghcr.io/flaresolverr/flaresolverr:latest
+  ghcr.io/thephaseless/byparr:latest
 
 # Configure scraper
 export FLARESOLVERR_ENABLED=true
@@ -119,7 +119,7 @@ After=docker.service
 [Service]
 ExecStart=/usr/bin/docker run --rm --name=flaresolverr \
   -p 127.0.0.1:8191:8191 \
-  ghcr.io/flaresolverr/flaresolverr:latest
+  ghcr.io/thephaseless/byparr:latest
 Restart=always
 
 [Install]
@@ -143,7 +143,7 @@ To enable, edit `.github/workflows/update-feed.yml`:
   run: |
     docker run -d --name=flaresolverr \
       -p 8191:8191 \
-      ghcr.io/flaresolverr/flaresolverr:latest
+      ghcr.io/thephaseless/byparr:latest
     sleep 10
 
 - name: Set Environment
@@ -226,7 +226,7 @@ docker restart flaresolverr
 **Solutions:**
 1. Update FlareSolverr:
    ```bash
-   docker pull ghcr.io/flaresolverr/flaresolverr:latest
+   docker pull ghcr.io/thephaseless/byparr:latest
    docker-compose down
    docker-compose up -d
    ```
