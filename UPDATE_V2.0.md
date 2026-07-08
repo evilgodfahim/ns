@@ -223,7 +223,7 @@ curl http://localhost:8191/v1
 
 ### Still Getting Blocked?
 
-1. Update FlareSolverr: `docker pull ghcr.io/flaresolverr/flaresolverr:latest`
+1. Update FlareSolverr: `docker pull ghcr.io/thephaseless/byparr:latest
 2. Increase timeout in .env: `FLARESOLVERR_TIMEOUT=120000`
 3. Try different user agent
 4. Check [FLARESOLVERR.md](FLARESOLVERR.md) troubleshooting section
