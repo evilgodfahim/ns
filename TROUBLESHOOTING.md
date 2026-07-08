@@ -37,7 +37,7 @@ netstat -tuln | grep 8191
 lsof -i :8191
 
 # 5. Start FlareSolverr manually
-docker run -d --name flaresolverr -p 8191:8191 ghcr.io/flaresolverr/flaresolverr:latest
+docker run -d --name byparr -p 8191:8191 ghcr.io/thephaseless/byparr:latest
 ```
 
 ### FlareSolverr Timeout
@@ -77,7 +77,7 @@ docker run -d --name flaresolverr -p 8191:8191 ghcr.io/flaresolverr/flaresolverr
 docker logs flaresolverr --tail 100
 
 # 2. Update FlareSolverr
-docker pull ghcr.io/flaresolverr/flaresolverr:latest
+docker pull ghcr.io/thephaseless/byparr:latest
 docker-compose up -d --build
 
 # 3. Test with curl
@@ -94,7 +94,7 @@ curl -X POST http://localhost:8191/v1 \
 
 1. **Update FlareSolverr** (Cloudflare updates their protection):
    ```bash
-   docker pull ghcr.io/flaresolverr/flaresolverr:latest
+   docker pull ghcr.io/thephaseless/byparr:latest
    docker-compose down
    docker-compose up -d
    ```
@@ -535,7 +535,7 @@ docker-compose logs > docker.log
 ## Quick Fixes Checklist
 
 - [ ] Restart FlareSolverr: `docker restart flaresolverr`
-- [ ] Update FlareSolverr: `docker pull ghcr.io/flaresolverr/flaresolverr:latest`
+- [ ] Update FlareSolverr: `docker pull ghcr.io/thephaseless/byparr:latest
 - [ ] Update dependencies: `pip install -r requirements.txt --upgrade`
 - [ ] Clear cache: `rm -f feed.xml`
 - [ ] Run validation: `python validate_feed.py`
