@@ -3,7 +3,7 @@ version: '3.8'
 services:
   # FlareSolverr - Bypasses Cloudflare and anti-bot protection
   flaresolverr:
-    image: ghcr.io/germondai/trawl:latest
+    image: ghcr.io/flaresolverr/flaresolverr:latest
     container_name: flaresolverr
     environment:
       - LOG_LEVEL=info
