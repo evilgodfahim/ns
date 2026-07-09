@@ -68,7 +68,7 @@ clean:
 
 # Development: Start FlareSolverr only
 flaresolverr:
-	docker run -d --name trawl -p 8191:8191 ghcr.io/germondai/trawl:latest
+	docker run -d --name trawl -p 8191:8191 ghcr.io/flaresolverr/flaresolverr:latest
 	@echo "FlareSolverr started on port 8191"
 
 # Development: Stop FlareSolverr
