@@ -16,7 +16,6 @@ from dotenv import load_dotenv
 import json
 import time
 
-# Load environment variables
 load_dotenv()
 
 
@@ -25,15 +24,13 @@ class NewScientistScraper:
         self.base_url = "https://www.newscientist.com"
         self.current_issue_url = f"{self.base_url}/issues/current/"
 
-        # Get user agent from env or use default
-        self.user_agent = os.getenv('USER_AGENT', 
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
+        self.user_agent = os.getenv(
+            'USER_AGENT',
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+            '(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        self.headers = {'User-Agent': self.user_agent}
 
-        self.headers = {
-            'User-Agent': self.user_agent
-        }
-
-        # FlareSolverr configuration
         self.use_flaresolverr = os.getenv('FLARESOLVERR_ENABLED', 'false').lower() == 'true'
         self.flaresolverr_url = os.getenv('FLARESOLVERR_URL', 'http://localhost:8191/v1')
         self.flaresolverr_timeout = int(os.getenv('FLARESOLVERR_TIMEOUT', '60000'))
@@ -60,17 +57,14 @@ class NewScientistScraper:
                 data = response.json()
 
                 if data.get('status') == 'ok':
-                    solution = data.get('solution', {})
-                    html = solution.get('response')
-
+                    html = data.get('solution', {}).get('response')
                     if html:
                         print(f"✓ FlareSolverr successfully fetched page ({len(html)} bytes)")
                         return html
                     else:
-                        print(f"⚠ FlareSolverr returned empty response")
+                        print("⚠ FlareSolverr returned empty response")
                 else:
-                    error_msg = data.get('message', 'Unknown error')
-                    print(f"⚠ FlareSolverr error: {error_msg}")
+                    print(f"⚠ FlareSolverr error: {data.get('message', 'Unknown error')}")
 
                 if attempt < max_retries - 1:
                     wait_time = (attempt + 1) * 5
@@ -121,7 +115,6 @@ class NewScientistScraper:
         except Exception as e:
             print(f"❌ Error fetching page: {e}")
 
-            # Fallback: try the opposite method
             if self.use_flaresolverr:
                 print("Attempting fallback to direct request...")
                 try:
@@ -135,85 +128,64 @@ class NewScientistScraper:
         """Parse articles from the HTML content"""
         soup = BeautifulSoup(html_content, 'lxml')
         articles = []
+        seen_urls = set()
 
-        # Find the magazine hero section
-        hero_section = soup.find('div', class_='ThisWeeksMagazineHero__Subjects')
+        # Each article is wrapped in <a class="content-item">
+        # They appear in both issue__editors-picks and issue__table-of-contents sections
+        for link in soup.find_all('a', class_='content-item'):
+            href = link.get('href', '')
+            # Hrefs are already absolute URLs; only prepend base_url if relative
+            url = href if href.startswith('http') else self.base_url + href
 
-        if not hero_section:
-            print("⚠ Warning: Could not find magazine hero section")
-            # Try alternative selectors
-            hero_section = soup.find('div', class_=lambda x: x and 'MagazineHero' in x)
+            if not url or url in seen_urls:
+                continue
+            seen_urls.add(url)
 
-        if hero_section:
-            # Find all subject sections
-            subject_sections = hero_section.find_all('div', class_='ThisWeeksMagazineHero__Subject')
+            card = link.find('article', class_='content-item__card')
+            if not card:
+                continue
 
-            for section in subject_sections:
-                # Get category
-                category_elem = section.find('div', class_='ThisWeeksMagazine__Category')
-                category = category_elem.get_text(strip=True) if category_elem else "General"
+            title_elem = card.find('h3', class_='content-item__title')
+            if not title_elem:
+                continue
+            title = title_elem.get_text(strip=True)
 
-                # Find all article links in this section
-                article_links = section.find_all('a', class_='ThisWeeksMagazine__CopyLink')
+            category_elem = card.find('h4', class_='content-item__subject')
+            category = category_elem.get_text(strip=True) if category_elem else 'General'
 
-                for link in article_links:
-                    article = {
-                        'title': link.get_text(strip=True),
-                        'url': self.base_url + link.get('href', ''),
-                        'category': category,
-                        'image_url': None
-                    }
-                    articles.append(article)
+            excerpt_elem = card.find('p', class_='content-item__excerpt')
+            excerpt = excerpt_elem.get_text(strip=True) if excerpt_elem else ''
 
-        # Also get editor's picks with images — no limit
-        editors_picks = soup.find_all('article', class_='Card--Article')
+            tag_elem = card.find('span', class_='content-item__tag')
+            subject_type = tag_elem.get_text(strip=True) if tag_elem else None
 
-        for card in editors_picks:
-            title_elem = card.find('h3', class_='Card__Title')
-            link_elem = card.find_parent('a', class_='CardLink')
-            category_elem = card.find('h4', class_='Card__Category')
-            image_elem = card.find('img', class_='Image')
-            subject_type = card.find('p', class_='Card__SubjectType')
+            # Image: prefer highest-resolution srcset entry, fall back to src
+            image_url = None
+            img = card.find('img')
+            if img:
+                srcset = img.get('srcset', '')
+                if srcset:
+                    last = srcset.strip().split(',')[-1].strip().split()[0]
+                    if last.startswith('http'):
+                        image_url = last
+                if not image_url:
+                    src = img.get('src', '')
+                    if src.startswith('http'):
+                        image_url = src
 
-            if title_elem and link_elem:
-                title = title_elem.get_text(strip=True)
-
-                # Skip if already in articles list
-                if any(a['title'] == title for a in articles):
-                    continue
-
-                article = {
-                    'title': title,
-                    'url': self.base_url + link_elem.get('href', ''),
-                    'category': category_elem.get_text(strip=True) if category_elem else "General",
-                    'image_url': None,
-                    'subject_type': subject_type.get_text(strip=True) if subject_type else None
-                }
-
-                # Extract image URL
-                if image_elem:
-                    # Try src first, then srcset
-                    img_src = image_elem.get('src')
-                    if img_src and img_src.startswith('http'):
-                        article['image_url'] = img_src
-                    else:
-                        # Try to get highest resolution from srcset
-                        srcset = image_elem.get('srcset')
-                        if srcset:
-                            sources = srcset.split(',')
-                            if sources:
-                                # Get the last (highest resolution) source
-                                last_source = sources[-1].strip().split()[0]
-                                if last_source.startswith('http'):
-                                    article['image_url'] = last_source
-
-                articles.append(article)
+            articles.append({
+                'title': title,
+                'url': url,
+                'category': category,
+                'excerpt': excerpt,
+                'subject_type': subject_type,
+                'image_url': image_url,
+            })
 
         return articles
 
     def generate_rss_feed(self, articles):
         """Generate RSS 2.0 feed from articles"""
-        # Create RSS root element
         rss = Element('rss', version='2.0')
         rss.set('xmlns:atom', 'http://www.w3.org/2005/Atom')
         rss.set('xmlns:media', 'http://search.yahoo.com/mrss/')
@@ -221,27 +193,23 @@ class NewScientistScraper:
 
         channel = SubElement(rss, 'channel')
 
-        # Channel metadata
         SubElement(channel, 'title').text = 'New Scientist - Current Issue'
         SubElement(channel, 'link').text = self.current_issue_url
-        SubElement(channel, 'description').text = 'Latest articles from New Scientist magazine current issue (powered by FlareSolverr)'
+        SubElement(channel, 'description').text = 'Latest articles from New Scientist magazine current issue'
         SubElement(channel, 'language').text = 'en-us'
         SubElement(channel, 'lastBuildDate').text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
-        SubElement(channel, 'generator').text = 'NewScientist RSS Scraper v2.0 (with FlareSolverr)'
+        SubElement(channel, 'generator').text = 'NewScientist RSS Scraper v3.0'
 
-        # Self-referencing atom link (update with your GitHub Pages URL)
         atom_link = SubElement(channel, '{http://www.w3.org/2005/Atom}link')
         atom_link.set('href', 'https://YOUR_USERNAME.github.io/newscientist-rss-scraper/feed.xml')
         atom_link.set('rel', 'self')
         atom_link.set('type', 'application/rss+xml')
 
-        # Add image
         image = SubElement(channel, 'image')
         SubElement(image, 'url').text = 'https://www.newscientist.com/wp-content/themes/newscientist/assets/img/meta/apple-touch-icon.png'
         SubElement(image, 'title').text = 'New Scientist'
         SubElement(image, 'link').text = self.base_url
 
-        # Add articles as items
         for article in articles:
             item = SubElement(channel, 'item')
 
@@ -251,24 +219,23 @@ class NewScientistScraper:
             SubElement(item, 'pubDate').text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
             SubElement(item, 'category').text = article['category']
 
-            # Create description
-            description = f"Category: {article['category']}"
+            # Build description from available fields
+            parts = [f"Category: {article['category']}"]
             if article.get('subject_type'):
-                description += f" | Type: {article['subject_type']}"
-            SubElement(item, 'description').text = description
+                parts.append(f"Type: {article['subject_type']}")
+            if article.get('excerpt'):
+                parts.append(article['excerpt'])
+            SubElement(item, 'description').text = ' | '.join(parts)
 
-            # Add image as enclosure if available
             if article.get('image_url'):
                 enclosure = SubElement(item, 'enclosure')
                 enclosure.set('url', article['image_url'])
                 enclosure.set('type', 'image/jpeg')
 
-                # Add media:content for better image support
                 media_content = SubElement(item, '{http://search.yahoo.com/mrss/}content')
                 media_content.set('url', article['image_url'])
                 media_content.set('medium', 'image')
 
-                # Add media:thumbnail
                 media_thumb = SubElement(item, '{http://search.yahoo.com/mrss/}thumbnail')
                 media_thumb.set('url', article['image_url'])
 
@@ -283,8 +250,6 @@ class NewScientistScraper:
     def save_feed(self, rss_element, filename='feed.xml'):
         """Save RSS feed to file"""
         xml_string = self.prettify_xml(rss_element)
-
-        # Remove empty lines
         lines = [line for line in xml_string.split('\n') if line.strip()]
         xml_string = '\n'.join(lines)
 
@@ -295,9 +260,9 @@ class NewScientistScraper:
 
     def run(self):
         """Main execution method"""
-        print("="*60)
-        print("New Scientist RSS Scraper v2.0 (with FlareSolverr)")
-        print("="*60)
+        print("=" * 60)
+        print("New Scientist RSS Scraper v3.0")
+        print("=" * 60)
 
         print("\nFetching New Scientist current issue page...")
         html_content = self.fetch_page()
@@ -308,7 +273,7 @@ class NewScientistScraper:
         if not articles:
             print("⚠ Warning: No articles found!")
             print("This might indicate:")
-            print("  - Website structure has changed")
+            print("  - Website structure has changed again")
             print("  - Cloudflare is blocking access")
             print("  - Network connectivity issues")
         else:
@@ -320,21 +285,20 @@ class NewScientistScraper:
         print("Saving RSS feed...")
         self.save_feed(rss_feed)
 
-        print("\n" + "="*60)
+        print("\n" + "=" * 60)
         print(f"✅ SUCCESS: {len(articles)} articles added to feed")
-        print("="*60)
+        print("=" * 60)
 
-        # Print summary
         if articles:
             print("\nFirst 5 articles:")
             for i, article in enumerate(articles[:5], 1):
-                img_indicator = "🖼️ " if article.get('image_url') else "  "
+                img_indicator = "🖼️  " if article.get('image_url') else "   "
                 print(f"{i}. {img_indicator}{article['title'][:55]}...")
             if len(articles) > 5:
                 print(f"... and {len(articles) - 5} more")
 
         print(f"\nFlareSolverr: {'Enabled ✓' if self.use_flaresolverr else 'Disabled'}")
-        print("="*60)
+        print("=" * 60)
 
 
 def main():
