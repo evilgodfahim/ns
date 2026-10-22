@@ -5,7 +5,7 @@
     <link>https://www.newscientist.com/issues/current/</link>
     <description>Latest articles from New Scientist magazine current issue</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:14:58 GMT</lastBuildDate>
     <generator>NewScientist RSS Scraper v3.0</generator>
     <ns0:link href="https://YOUR_USERNAME.github.io/newscientist-rss-scraper/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
@@ -14,309 +14,338 @@
       <link>https://www.newscientist.com</link>
     </image>
     <item>
-      <title>This El Niño will bring predictable disasters, so why aren’t we ready?</title>
-      <link>https://www.newscientist.com/article/2593320-__trashed-111/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593320-__trashed-111/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Some climate damage is now unavoidable even if we clean up our act</title>
+      <link>https://www.newscientist.com/article/2594773-some-climate-damage-is-now-unavoidable-even-if-we-clean-up-our-act/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594773-some-climate-damage-is-now-unavoidable-even-if-we-clean-up-our-act/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category/>
       <description>Category:  | Type: News</description>
-      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316316106.jpg?w=300&amp;h=225&amp;crop=1" type="image/jpeg"/>
-      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316316106.jpg?w=300&amp;h=225&amp;crop=1" medium="image"/>
-      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316316106.jpg?w=300&amp;h=225&amp;crop=1"/>
+      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317321333.jpg?w=300&amp;h=225&amp;crop=1" type="image/jpeg"/>
+      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317321333.jpg?w=300&amp;h=225&amp;crop=1" medium="image"/>
+      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317321333.jpg?w=300&amp;h=225&amp;crop=1"/>
     </item>
     <item>
-      <title>Do AIs already process information in a way that gives rise to consciousness?</title>
-      <link>https://www.newscientist.com/article/2591107-do-ais-already-process-information-in-a-way-that-gives-rise-to-consciousness/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2591107-do-ais-already-process-information-in-a-way-that-gives-rise-to-consciousness/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Are we about to solve the greatest mystery of the neutrino?</title>
+      <link>https://www.newscientist.com/article/2592541-are-we-about-to-solve-the-greatest-mystery-of-the-neutrino/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2592541-are-we-about-to-solve-the-greatest-mystery-of-the-neutrino/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Physics</category>
+      <description>Category: Physics | Type: Features</description>
+      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316756548.jpg?w=300&amp;h=225&amp;crop=1" type="image/jpeg"/>
+      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316756548.jpg?w=300&amp;h=225&amp;crop=1" medium="image"/>
+      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316756548.jpg?w=300&amp;h=225&amp;crop=1"/>
+    </item>
+    <item>
+      <title>The controversial legacy of a ‘male’ theory of autism</title>
+      <link>https://www.newscientist.com/article/2592226-where-does-the-extreme-male-brain-sit-in-our-better-understanding-of-autism/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2592226-where-does-the-extreme-male-brain-sit-in-our-better-understanding-of-autism/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Mind</category>
+      <description>Category: Mind | Type: Features</description>
+      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314691625.jpg?w=300&amp;h=225&amp;crop=1" type="image/jpeg"/>
+      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314691625.jpg?w=300&amp;h=225&amp;crop=1" medium="image"/>
+      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314691625.jpg?w=300&amp;h=225&amp;crop=1"/>
+    </item>
+    <item>
+      <title>El Niño is dramatically increasing sea levels – how bad could it get?</title>
+      <link>https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Environment</category>
+      <description>Category: Environment | Type: News | El Niño has already raised sea levels in part of the eastern Pacific by 40 centimetres and as it continues to strengthen, there could be coastal flooding from Alaska to Chile</description>
+      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316726592.jpg?crop=109px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" type="image/jpeg"/>
+      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316726592.jpg?crop=109px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" medium="image"/>
+      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316726592.jpg?crop=109px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768"/>
+    </item>
+    <item>
+      <title>El Niño has killed hundreds of children in Sudan</title>
+      <link>https://www.newscientist.com/article/2594324-el-nino-has-killed-hundreds-of-children-in-sudan/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594324-el-nino-has-killed-hundreds-of-children-in-sudan/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Environment</category>
+      <description>Category: Environment | Type: News</description>
+    </item>
+    <item>
+      <title>Russia and China are using AI to stage relentless cyberattacks against the UK</title>
+      <link>https://www.newscientist.com/article/2593414-russia-and-china-are-using-ai-to-stage-relentless-cyber-attacks-against-the-uk/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593414-russia-and-china-are-using-ai-to-stage-relentless-cyber-attacks-against-the-uk/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Technology</category>
-      <description>Category: Technology | Type: Features</description>
-      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/Is-AI-Conscious.gif?w=300&amp;h=225&amp;crop=1" type="image/jpeg"/>
-      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/Is-AI-Conscious.gif?w=300&amp;h=225&amp;crop=1" medium="image"/>
-      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/Is-AI-Conscious.gif?w=300&amp;h=225&amp;crop=1"/>
+      <description>Category: Technology | Type: News</description>
     </item>
     <item>
-      <title>A revolutionary way of targeting tumours could beat even the worst cancers</title>
-      <link>https://www.newscientist.com/article/2591348-a-revolutionary-way-of-targeting-tumours-could-beat-even-the-worst-cancers/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2591348-a-revolutionary-way-of-targeting-tumours-could-beat-even-the-worst-cancers/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Health</category>
-      <description>Category: Health | Type: Features</description>
-      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315792197.jpg?w=300&amp;h=225&amp;crop=1" type="image/jpeg"/>
-      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315792197.jpg?w=300&amp;h=225&amp;crop=1" medium="image"/>
-      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315792197.jpg?w=300&amp;h=225&amp;crop=1"/>
+      <title>Will physics be the next field to be turned upside down by AI?</title>
+      <link>https://www.newscientist.com/article/2593273-will-physics-be-the-next-field-to-get-turned-upside-down-by-ai/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593273-will-physics-be-the-next-field-to-get-turned-upside-down-by-ai/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Physics</category>
+      <description>Category: Physics | Type: News</description>
     </item>
     <item>
-      <title>The world may never go back to how it was after this monster El Niño</title>
-      <link>https://www.newscientist.com/article/2592450-the-world-may-never-go-back-to-how-it-was-after-this-monster-el-nino/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592450-the-world-may-never-go-back-to-how-it-was-after-this-monster-el-nino/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Environment</category>
-      <description>Category: Environment | Type: News | This El Niño is forecast to end around June next year after smashing all records, but its impacts could persist indefinitely in some parts of the world</description>
-      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315648517.jpg?crop=87px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" type="image/jpeg"/>
-      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315648517.jpg?crop=87px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" medium="image"/>
-      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315648517.jpg?crop=87px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768"/>
-    </item>
-    <item>
-      <title>What disasters will El Niño bring over the next year?</title>
-      <link>https://www.newscientist.com/article/2591903-what-disasters-could-el-nino-bring-over-the-next-year/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2591903-what-disasters-could-el-nino-bring-over-the-next-year/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>We can rescue the AMOC after its collapse – but it won’t be easy</title>
+      <link>https://www.newscientist.com/article/2593766-we-can-rescue-the-amoc-after-its-collapse-but-it-wont-be-easy/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593766-we-can-rescue-the-amoc-after-its-collapse-but-it-wont-be-easy/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Environment</category>
       <description>Category: Environment | Type: News</description>
     </item>
     <item>
-      <title>Why the worst El Niño killed millions – and how we can avoid a repeat</title>
-      <link>https://www.newscientist.com/article/2592513-why-the-worst-el-nino-killed-millions-and-how-we-can-avoid-a-repeat/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592513-why-the-worst-el-nino-killed-millions-and-how-we-can-avoid-a-repeat/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Cells from your mother could stay in your brain your whole life</title>
+      <link>https://www.newscientist.com/article/2593373-cells-from-your-mother-could-stay-in-your-brain-your-whole-life/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593373-cells-from-your-mother-could-stay-in-your-brain-your-whole-life/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Mind</category>
+      <description>Category: Mind | Type: News</description>
+    </item>
+    <item>
+      <title>Antarctica’s ‘doomsday’ glacier will keep melting even if oceans cool</title>
+      <link>https://www.newscientist.com/article/2594246-antarcticas-doomsday-glacier-will-keep-melting-even-if-oceans-cool/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594246-antarcticas-doomsday-glacier-will-keep-melting-even-if-oceans-cool/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Environment</category>
       <description>Category: Environment | Type: News</description>
     </item>
     <item>
-      <title>How El Niño could spark a worldwide food crisis</title>
-      <link>https://www.newscientist.com/article/2592935-how-el-nino-could-spark-a-worldwide-food-crisis/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592935-how-el-nino-could-spark-a-worldwide-food-crisis/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Towering glacial ice cliffs may collapse in fits and starts</title>
+      <link>https://www.newscientist.com/article/2593672-towering-ice-cliffs-may-collapse-in-fits-and-starts/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593672-towering-ice-cliffs-may-collapse-in-fits-and-starts/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Environment</category>
       <description>Category: Environment | Type: News</description>
     </item>
     <item>
-      <title>Our food system is vulnerable to El Niño, warns UK climate minister</title>
-      <link>https://www.newscientist.com/article/2590994-our-food-system-is-vulnerable-to-el-nino-warns-uk-climate-minister/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2590994-our-food-system-is-vulnerable-to-el-nino-warns-uk-climate-minister/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Environment</category>
-      <description>Category: Environment | Type: News</description>
-    </item>
-    <item>
-      <title>The most ambitious ideas to save the world from El Niño</title>
-      <link>https://www.newscientist.com/article/2592044-the-most-ambitious-ideas-to-save-the-world-from-el-nino/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592044-the-most-ambitious-ideas-to-save-the-world-from-el-nino/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Environment</category>
-      <description>Category: Environment | Type: News</description>
-    </item>
-    <item>
-      <title>AI finds bafflingly complex but beautiful symmetrical Venn diagram</title>
-      <link>https://www.newscientist.com/article/2591415-ai-finds-bafflingly-complex-but-beautiful-symmetrical-venn-diagram/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2591415-ai-finds-bafflingly-complex-but-beautiful-symmetrical-venn-diagram/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Mathematics</category>
-      <description>Category: Mathematics | Type: News</description>
-    </item>
-    <item>
-      <title>Stunning early mammal fossil sheds light on the evolution of suckling</title>
-      <link>https://www.newscientist.com/article/2592252-stunning-early-mammal-fossil-sheds-light-on-the-evolution-of-suckling/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592252-stunning-early-mammal-fossil-sheds-light-on-the-evolution-of-suckling/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Life</category>
-      <description>Category: Life | Type: News</description>
-    </item>
-    <item>
-      <title>Nearly 1 in 10 young adults could have fatty, narrow arteries</title>
-      <link>https://www.newscientist.com/article/2592977-nearly-1-in-10-young-adults-could-have-fatty-narrow-arteries/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592977-nearly-1-in-10-young-adults-could-have-fatty-narrow-arteries/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Probiotic cuts risk of respiratory infections in formula-fed babies</title>
+      <link>https://www.newscientist.com/article/2594148-probiotic-cuts-risk-of-respiratory-infections-in-formula-fed-babies/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594148-probiotic-cuts-risk-of-respiratory-infections-in-formula-fed-babies/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Health</category>
       <description>Category: Health | Type: News</description>
     </item>
     <item>
-      <title>Number of known species of giant waterlilies almost doubles</title>
-      <link>https://www.newscientist.com/article/2592896-the-number-of-known-species-of-giant-waterlilies-just-doubled/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592896-the-number-of-known-species-of-giant-waterlilies-just-doubled/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Giant bacteria could be living in your gut</title>
+      <link>https://www.newscientist.com/article/2593632-giant-bacteria-could-be-living-in-your-gut/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593632-giant-bacteria-could-be-living-in-your-gut/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Health</category>
+      <description>Category: Health | Type: News</description>
+    </item>
+    <item>
+      <title>Flightless ancient bird complicates our picture of wing evolution</title>
+      <link>https://www.newscientist.com/article/2593552-flightless-ancient-bird-complicates-our-picture-of-wing-evolution/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593552-flightless-ancient-bird-complicates-our-picture-of-wing-evolution/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Life</category>
       <description>Category: Life | Type: News</description>
     </item>
     <item>
-      <title>Two large asteroids found spinning as fast as a fairground ride</title>
-      <link>https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593044-two-large-asteroids-found-spinning-as-fast-as-fairground-ride/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Space</category>
-      <description>Category: Space | Type: News</description>
+      <title>Scientists have just voted to abolish leap seconds</title>
+      <link>https://www.newscientist.com/article/2594285-scientists-have-just-voted-to-abolish-leap-seconds/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594285-scientists-have-just-voted-to-abolish-leap-seconds/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Physics</category>
+      <description>Category: Physics | Type: News</description>
     </item>
     <item>
-      <title>Neanderthal Europe was as much a wooden age as a stone age</title>
-      <link>https://www.newscientist.com/article/2592417-neanderthal-europe-was-as-much-a-wooden-age-as-a-stone-age/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592417-neanderthal-europe-was-as-much-a-wooden-age-as-a-stone-age/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Ancient shipwreck discovered off Turkey claimed to be world’s oldest</title>
+      <link>https://www.newscientist.com/article/2593986-ancient-shipwreck-discovered-off-turkey-claimed-to-be-worlds-oldest/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593986-ancient-shipwreck-discovered-off-turkey-claimed-to-be-worlds-oldest/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Humans</category>
       <description>Category: Humans | Type: News</description>
     </item>
     <item>
-      <title>Tattoos could be turned on and off with light</title>
-      <link>https://www.newscientist.com/article/2592938-tattoos-could-be-turned-on-and-off-with-light/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592938-tattoos-could-be-turned-on-and-off-with-light/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Health</category>
-      <description>Category: Health | Type: News</description>
-    </item>
-    <item>
-      <title>194-year-old tortoise has exceptional DNA repair systems that fight off ageing</title>
-      <link>https://www.newscientist.com/article/2592213-secrets-of-longevity-of-jonathan-the-nearly-200-year-old-tortoise/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592213-secrets-of-longevity-of-jonathan-the-nearly-200-year-old-tortoise/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Dinosaur named new species a century after fossil found on Isle of Wight</title>
+      <link>https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Life</category>
       <description>Category: Life | Type: News</description>
     </item>
     <item>
-      <title>Why is this monster El Niño so strong?</title>
-      <link>https://www.newscientist.com/article/2590917-what-has-made-this-monster-el-nino-so-strong/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2590917-what-has-made-this-monster-el-nino-so-strong/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Environment</category>
-      <description>Category: Environment | Type: News | Though the El Niño is still months from its peak, it is already breaking many records. Two main factors are behind how it became so powerful</description>
-      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314424523.jpg?crop=59px%2C0px%2C1199px%2C899px&amp;resize=1024%2C768" type="image/jpeg"/>
-      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314424523.jpg?crop=59px%2C0px%2C1199px%2C899px&amp;resize=1024%2C768" medium="image"/>
-      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/09/SEI_314424523.jpg?crop=59px%2C0px%2C1199px%2C899px&amp;resize=1024%2C768"/>
-    </item>
-    <item>
-      <title>The most interesting mathematical discoveries in OpenAI’s 722 new papers</title>
-      <link>https://www.newscientist.com/article/2592703-the-most-interesting-mathematical-discoveries-in-openais-722-new-papers/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592703-the-most-interesting-mathematical-discoveries-in-openais-722-new-papers/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Mathematics</category>
-      <description>Category: Mathematics | Type: News</description>
-    </item>
-    <item>
-      <title>Some of our favourite New Scientist Live moments – in photographs</title>
-      <link>https://www.newscientist.com/article/2593337-some-of-our-favourite-new-scientist-live-moments-in-photographs/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593337-some-of-our-favourite-new-scientist-live-moments-in-photographs/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Life</category>
-      <description>Category: Life | Type: Regulars | With talks by experts from Alice Roberts to Tim Spector and a host of scientific fun to be had, this year's New Scientist Live took place from 10 to 12 October. Check out the action in this selection of shots from the show floor</description>
-      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316312672.jpg?crop=61px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" type="image/jpeg"/>
-      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316312672.jpg?crop=61px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" medium="image"/>
-      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316312672.jpg?crop=61px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768"/>
-    </item>
-    <item>
-      <title>How to build a real relationship with AI and keep your cognitive edge</title>
-      <link>https://www.newscientist.com/article/2593188-how-to-build-a-real-relationship-with-ai-and-keep-your-cognitive-edge/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593188-how-to-build-a-real-relationship-with-ai-and-keep-your-cognitive-edge/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Comment</category>
-      <description>Category: Comment | Type: Culture | Co-Existence by Ethan Mollick is an excellent practical guide to effectively collaborating with AI without relinquishing our most valuable human cognitive capabilities, says Daniel Cossins</description>
-      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315751630.jpg?crop=0px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" type="image/jpeg"/>
-      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315751630.jpg?crop=0px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" medium="image"/>
-      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315751630.jpg?crop=0px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768"/>
-    </item>
-    <item>
-      <title>Hidden sounds of nature brought to life in fascinating new book</title>
-      <link>https://www.newscientist.com/article/2593189-hidden-sounds-of-nature-brought-to-life-in-fascinating-new-book/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593189-hidden-sounds-of-nature-brought-to-life-in-fascinating-new-book/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Comment</category>
-      <description>Category: Comment | Type: Culture</description>
-    </item>
-    <item>
-      <title>Time Traveler’s Wife sequel is far more complex than its predecessor</title>
-      <link>https://www.newscientist.com/article/2591771-time-travelers-wife-sequel-is-far-more-complex-than-its-predecessor/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2591771-time-travelers-wife-sequel-is-far-more-complex-than-its-predecessor/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Comment</category>
-      <description>Category: Comment | Type: Culture</description>
-    </item>
-    <item>
-      <title>This prize-winning sci-fi novel about wolf rewilding made me cry</title>
-      <link>https://www.newscientist.com/article/2593191-this-prize-winning-sci-fi-novel-about-wolf-rewilding-made-me-cry/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593191-this-prize-winning-sci-fi-novel-about-wolf-rewilding-made-me-cry/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Comment</category>
-      <description>Category: Comment | Type: Culture</description>
-    </item>
-    <item>
-      <title>Hannah Fry: How OpenAI has caused an existential crisis in mathematics</title>
-      <link>https://www.newscientist.com/article/2593249-hannah-fry-how-openai-has-caused-an-existential-crisis-in-mathematics/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593249-hannah-fry-how-openai-has-caused-an-existential-crisis-in-mathematics/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Mathematics</category>
-      <description>Category: Mathematics | Type: Comment | OpenAI has been throwing everything at solving long-standing maths problems. This should have been a glorious moment for mathematicians – but instead we're having a massive collective wobble, says New Scientist's new columnist, Professor Hannah Fry</description>
-      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI315909174.jpg?crop=150px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" type="image/jpeg"/>
-      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI315909174.jpg?crop=150px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" medium="image"/>
-      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI315909174.jpg?crop=150px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768"/>
-    </item>
-    <item>
-      <title>Should we keep children away from sugar for their first 1000 days?</title>
-      <link>https://www.newscientist.com/article/2591570-should-we-keep-children-away-from-sugar-for-their-first-1000-days/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2591570-should-we-keep-children-away-from-sugar-for-their-first-1000-days/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Rare cancer spread between twins in utero</title>
+      <link>https://www.newscientist.com/article/2593625-rare-cancer-spread-between-twins-in-utero/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593625-rare-cancer-spread-between-twins-in-utero/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Health</category>
-      <description>Category: Health | Type: Comment</description>
+      <description>Category: Health | Type: News</description>
     </item>
     <item>
-      <title>The telescope that could reveal what dark matter and dark energy are</title>
-      <link>https://www.newscientist.com/article/2591580-the-telescope-that-could-reveal-what-dark-matter-and-dark-energy-are/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2591580-the-telescope-that-could-reveal-what-dark-matter-and-dark-energy-are/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Space</category>
-      <description>Category: Space | Type: Comment</description>
+      <title>Neanderthal skeleton found with horrific injuries</title>
+      <link>https://www.newscientist.com/article/2593548-neanderthal-skeleton-found-with-horrific-injuries/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593548-neanderthal-skeleton-found-with-horrific-injuries/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Humans</category>
+      <description>Category: Humans | Type: News</description>
     </item>
     <item>
-      <title>Tom Gauld: DNA and fossil evidence proved they were close relatives</title>
-      <link>https://www.newscientist.com/article/2593496-tom-gauld-dna-and-fossil-evidence-proved-they-were-close-relatives/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593496-tom-gauld-dna-and-fossil-evidence-proved-they-were-close-relatives/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category/>
-      <description>Category:  | Type: Regulars</description>
+      <title>The land’s ability to store carbon has bounced back after two bad years</title>
+      <link>https://www.newscientist.com/article/2593284-the-land-carbon-sink-has-rebounded-strongly-after-two-terrible-years/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593284-the-land-carbon-sink-has-rebounded-strongly-after-two-terrible-years/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Environment</category>
+      <description>Category: Environment | Type: News</description>
     </item>
     <item>
-      <title>Twisteddoodles on life before the study began…</title>
-      <link>https://www.newscientist.com/article/2593499-twisteddoodles-on-life-before-the-study-began/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593499-twisteddoodles-on-life-before-the-study-began/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
-      <category/>
-      <description>Category:  | Type: Regulars</description>
+      <title>Archaeologists are uncovering the meaning of a unique rock art site</title>
+      <link>https://www.newscientist.com/article/2593633-archaeologists-are-uncovering-the-meaning-of-a-unique-rock-art-site/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593633-archaeologists-are-uncovering-the-meaning-of-a-unique-rock-art-site/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Humans</category>
+      <description>Category: Humans | Type: News</description>
     </item>
     <item>
-      <title>Let’s celebrate Star Trek by launching a Le Creuset pan into the sky!</title>
-      <link>https://www.newscientist.com/article/2592971-lets-celebrate-star-trek-by-launching-a-le-creuset-pan-into-the-sky/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2592971-lets-celebrate-star-trek-by-launching-a-le-creuset-pan-into-the-sky/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>A visit to the island turning off its lights to protect rare seabirds</title>
+      <link>https://www.newscientist.com/article/2593557-a-visit-to-the-island-turning-off-its-lights-to-protect-rare-seabirds/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593557-a-visit-to-the-island-turning-off-its-lights-to-protect-rare-seabirds/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Life</category>
+      <description>Category: Life | Type: Regulars | Locals on Corvo in the Azores are protecting Cory's shearwaters from disorientating light pollution. Photographer Andrea Zanenga learned how the remote community rescues and releases young birds</description>
+      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI316337289.jpg?crop=150px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" type="image/jpeg"/>
+      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI316337289.jpg?crop=150px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" medium="image"/>
+      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI316337289.jpg?crop=150px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768"/>
+    </item>
+    <item>
+      <title>Terence Tao’s Six Maths Essentials opens his field to all of us</title>
+      <link>https://www.newscientist.com/article/2594471-terence-taos-six-maths-essentials-opens-his-field-to-all-of-us/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594471-terence-taos-six-maths-essentials-opens-his-field-to-all-of-us/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category>Comment</category>
-      <description>Category: Comment | Feedback learns of an unexpected new partnership for Star Trek, and of an even more unexpected promotional stunt</description>
-      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316428869.jpg?crop=75px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" type="image/jpeg"/>
-      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316428869.jpg?crop=75px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" medium="image"/>
-      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316428869.jpg?crop=75px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768"/>
+      <description>Category: Comment | Type: Culture | Terence Tao, one of the world's great mathematicians, urges us to find empowerment in numbers in his new book Six Maths Essentials. Karmela Padavic-Callaghan  is convinced</description>
+      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316426949.jpg?crop=150px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" type="image/jpeg"/>
+      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316426949.jpg?crop=150px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" medium="image"/>
+      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316426949.jpg?crop=150px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768"/>
+    </item>
+    <item>
+      <title>What Did Dinosaurs Think About? review: delightful and informative</title>
+      <link>https://www.newscientist.com/article/2594472-what-did-dinosaurs-think-about-review-delightful-and-informative/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594472-what-did-dinosaurs-think-about-review-delightful-and-informative/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Comment</category>
+      <description>Category: Comment | Type: Culture</description>
+    </item>
+    <item>
+      <title>Climate satire Digger – with Tom Cruise on top form – is full of surprises</title>
+      <link>https://www.newscientist.com/article/2592804-climate-satire-digger-with-tom-cruise-on-top-form-is-full-of-surprises/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2592804-climate-satire-digger-with-tom-cruise-on-top-form-is-full-of-surprises/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Comment</category>
+      <description>Category: Comment | Type: Culture</description>
+    </item>
+    <item>
+      <title>‘There’s two ways of doing time travel, right?’ says Audrey Niffenegger</title>
+      <link>https://www.newscientist.com/article/2594474-theres-two-ways-of-doing-time-travel-right-says-audrey-niffenegger/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594474-theres-two-ways-of-doing-time-travel-right-says-audrey-niffenegger/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Comment</category>
+      <description>Category: Comment | Type: Culture</description>
+    </item>
+    <item>
+      <title>Primatologist Frans de Waal’s final book is a rich mix of memoir and science</title>
+      <link>https://www.newscientist.com/article/2594475-primatologist-frans-de-waals-final-book-is-a-rich-mix-of-memoir-and-science/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594475-primatologist-frans-de-waals-final-book-is-a-rich-mix-of-memoir-and-science/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Comment</category>
+      <description>Category: Comment | Type: Culture</description>
+    </item>
+    <item>
+      <title>These two new sci-fi novels really impressed us</title>
+      <link>https://www.newscientist.com/article/2594476-these-two-new-sci-fi-novels-really-impressed-us/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594476-these-two-new-sci-fi-novels-really-impressed-us/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Comment</category>
+      <description>Category: Comment | Type: Culture</description>
+    </item>
+    <item>
+      <title>Will we observe dark matter as a particle or a wave?</title>
+      <link>https://www.newscientist.com/article/2591125-will-we-observe-dark-matter-as-a-particle-or-a-wave/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2591125-will-we-observe-dark-matter-as-a-particle-or-a-wave/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Physics</category>
+      <description>Category: Physics | Type: Comment | We have arguably already discovered dark matter, says columnist Chanda Prescod-Weinstein. To observe it, we will need to figure out whether we expect it to act like a particle or a wave.</description>
+      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313800308.jpg?crop=7px%2C0px%2C1023px%2C767px&amp;resize=1024%2C768" type="image/jpeg"/>
+      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313800308.jpg?crop=7px%2C0px%2C1023px%2C767px&amp;resize=1024%2C768" medium="image"/>
+      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313800308.jpg?crop=7px%2C0px%2C1023px%2C767px&amp;resize=1024%2C768"/>
+    </item>
+    <item>
+      <title>Can a positive mindset protect us from the sniffles?</title>
+      <link>https://www.newscientist.com/article/2594259-can-a-positive-mindset-protect-us-from-the-sniffles/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594259-can-a-positive-mindset-protect-us-from-the-sniffles/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Mind</category>
+      <description>Category: Mind | Type: Comment</description>
+    </item>
+    <item>
+      <title>The Monte Verde controversy is back: who first lived in the Americas?</title>
+      <link>https://www.newscientist.com/article/2593162-the-monte-verde-controversy-is-back-who-first-lived-in-the-americas/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2593162-the-monte-verde-controversy-is-back-who-first-lived-in-the-americas/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Humans</category>
+      <description>Category: Humans | Type: Comment</description>
+    </item>
+    <item>
+      <title>Tom Gauld on arriving late to the party</title>
+      <link>https://www.newscientist.com/article/2594860-tom-gauld-on-arriving-late-to-the-party/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594860-tom-gauld-on-arriving-late-to-the-party/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category/>
+      <description>Category:  | Type: Regulars</description>
+    </item>
+    <item>
+      <title>Twisteddoodles on a cat’s-eye view of science</title>
+      <link>https://www.newscientist.com/article/2594867-twisteddoodles-on-a-cats-eye-view-of-science/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594867-twisteddoodles-on-a-cats-eye-view-of-science/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category/>
+      <description>Category:  | Type: Regulars</description>
+    </item>
+    <item>
+      <title>Are cats lazy or not? There’s some disagreement</title>
+      <link>https://www.newscientist.com/article/2594459-are-cats-lazy-or-not-theres-some-disagreement/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594459-are-cats-lazy-or-not-theres-some-disagreement/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
+      <category>Comment</category>
+      <description>Category: Comment | Feedback enters into some back and forth about the slothful nature of cats, but remains convinced they're pretty idle</description>
+      <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317437352.jpg?crop=101px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" type="image/jpeg"/>
+      <ns1:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317437352.jpg?crop=101px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768" medium="image"/>
+      <ns1:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317437352.jpg?crop=101px%2C0px%2C1200px%2C900px&amp;resize=1024%2C768"/>
     </item>
     <item>
       <title>This Week’s Letters</title>
-      <link>https://www.newscientist.com/letters/3617-this-weeks-letters/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/letters/3617-this-weeks-letters/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <link>https://www.newscientist.com/letters/3618-this-weeks-letters/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/letters/3618-this-weeks-letters/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category/>
       <description>Category:  | Type: Letters</description>
     </item>
     <item>
-      <title>Are humans the only animals that cry? If so, why?</title>
-      <link>https://www.newscientist.com/article/2593195-are-humans-the-only-animals-that-cry-if-so-why/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593195-are-humans-the-only-animals-that-cry-if-so-why/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>What’s the world actually like, if what we see is just our brain’s interpretations?</title>
+      <link>https://www.newscientist.com/article/2594481-whats-the-world-actually-like-if-what-we-see-is-just-our-brains-interpretations/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594481-whats-the-world-actually-like-if-what-we-see-is-just-our-brains-interpretations/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category/>
       <description>Category:  | Type: Last Word</description>
     </item>
     <item>
-      <title>Is it faster to jog up the stairs or take them two at a time?</title>
-      <link>https://www.newscientist.com/article/2593196-is-it-faster-to-jog-up-the-stairs-or-take-them-two-at-a-time/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593196-is-it-faster-to-jog-up-the-stairs-or-take-them-two-at-a-time/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>How different would Earth be if anaerobic life were the only life form?</title>
+      <link>https://www.newscientist.com/article/2594482-how-different-would-earth-be-if-anaerobic-life-were-the-only-life-form/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594482-how-different-would-earth-be-if-anaerobic-life-were-the-only-life-form/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category/>
       <description>Category:  | Type: Last Word</description>
     </item>
     <item>
-      <title>Why don’t dogs look up when a low-flying plane passes overhead? part 5</title>
-      <link>https://www.newscientist.com/article/2593197-why-dont-dogs-look-up-when-a-low-flying-plane-passes-overhead-part-5/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593197-why-dont-dogs-look-up-when-a-low-flying-plane-passes-overhead-part-5/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <title>Is there also such a thing as an olfactory illusion? (part 4)</title>
+      <link>https://www.newscientist.com/article/2594483-is-there-also-such-a-thing-as-an-olfactory-illusion-part-4/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594483-is-there-also-such-a-thing-as-an-olfactory-illusion-part-4/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category/>
       <description>Category:  | Type: Last Word</description>
     </item>
     <item>
       <title>This week’s new questions</title>
-      <link>https://www.newscientist.com/article/2593198-this-weeks-new-questions-367/</link>
-      <guid isPermaLink="true">https://www.newscientist.com/article/2593198-this-weeks-new-questions-367/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:34 GMT</pubDate>
+      <link>https://www.newscientist.com/article/2594484-this-weeks-new-questions-368/</link>
+      <guid isPermaLink="true">https://www.newscientist.com/article/2594484-this-weeks-new-questions-368/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:14:58 GMT</pubDate>
       <category/>
       <description>Category:  | Type: Last Word</description>
     </item>
